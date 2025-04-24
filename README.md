@@ -1,5 +1,7 @@
 # 💫 Hi there, I'm Van:
-🧑🏻‍💻 Crafting seamless web & mobile experiences with React/React Native and Node.js.<br>🔭 I’m transitioning from front-end expertise to full-stack mastery, building impactful solutions for the banking sector and beyond.<br><br>🇻🇳 Viet Nam
+<img align="right" alt="Van Tran" dis width="300" height="300" src="/Van Tran.png">
+
+🧑🏻‍💻 Crafting seamless web & mobile experiences with React/React Native and Node.js.<br>🔭 I’m transitioning from front-end expertise to full-stack mastery, building impactful solutions for the banking sector and beyond.<br><br>🇻🇳 Viet Nam<br/><br/><br/><br/><br/><br/><br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vawn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vawnnn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vantran99dn@gmail.com) 
